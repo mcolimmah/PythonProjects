@@ -1,4 +1,4 @@
-# Write yoprint('Hello, World!')ur code here :-)
+
 print('Hello, World!')
 print('Hello, My Name is Marshal and I am a man!')
 print('My name is Marshal Chinedu Olimmah, Check me out')
@@ -6,4 +6,4 @@ Print('Now it has finally committed to Github')
 
 print('That was something')
 
-print('Now let us check if the remote origin link now works with studio code')
+print('One thing to note is that the MU does not update like Visio code')
