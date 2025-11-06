@@ -5,3 +5,5 @@ print('My name is Marshal Chinedu Olimmah, Check me out')
 Print('Now it has finally committed to Github')
 
 print('That was something')
+
+print('Now let us check if the remote origin link now works with studio code')
