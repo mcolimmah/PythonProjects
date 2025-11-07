@@ -4,7 +4,7 @@ print('What is your name? ')  # Ask for their name.
 
 print('Hello, World!')
 print()  ## This adds a blank line into the output for better readability
-my_name = input('Please tell me your age after this prompt >>>>>> ')
+my_name = input('Please tell me your name after this prompt >>>>>> ')
 print('It is good to meet you, ' + my_name)
 print('The length of your name is: ')
 print(len(my_name))
