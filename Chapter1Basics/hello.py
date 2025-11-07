@@ -1,8 +1,8 @@
 # This is a program that says hello and asks for my name. #
-
-print('Hello, World!')
 print()  ## This adds a blank line into the output for better readability
 print('What is your name? ')  # Ask for their name.
+
+print('Hello, World!')
 print()  ## This adds a blank line into the output for better readability
 my_name = input('Please tell me your age after this prompt >>>>>> ')
 print('It is good to meet you, ' + my_name)
