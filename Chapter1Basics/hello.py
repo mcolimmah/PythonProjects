@@ -14,3 +14,6 @@ print()
 print('You will be ' + str(int(my_age) + 1) + ' in a year.')
 # print(f'You will be {int(my_age) +1} in a year')  # This format makes the result cleaner
 
+
+
+
