@@ -1,0 +1,29 @@
+2025-11-12 12:32:51,350 - DEBUG - Start of program
+2025-11-12 12:32:51,351 - DEBUG - Start of factorial(5)
+2025-11-12 12:32:51,351 - DEBUG - i is 1, total is 1
+2025-11-12 12:32:51,351 - DEBUG - i is 2, total is 2
+2025-11-12 12:32:51,351 - DEBUG - i is 3, total is 6
+2025-11-12 12:32:51,351 - DEBUG - i is 4, total is 24
+2025-11-12 12:32:51,351 - DEBUG - i is 5, total is 120
+2025-11-12 12:32:51,351 - DEBUG - End of factorial(5)
+2025-11-12 12:32:51,351 - DEBUG - End of program
+2025-11-12 12:33:34,601 - DEBUG - Start of program
+2025-11-12 12:33:34,601 - DEBUG - Start of factorial(5)
+2025-11-12 12:33:34,601 - DEBUG - i is 0, total is 0
+2025-11-12 12:33:34,601 - DEBUG - i is 1, total is 0
+2025-11-12 12:33:34,601 - DEBUG - i is 2, total is 0
+2025-11-12 12:33:34,601 - DEBUG - i is 3, total is 0
+2025-11-12 12:33:34,601 - DEBUG - i is 4, total is 0
+2025-11-12 12:33:34,601 - DEBUG - i is 5, total is 0
+2025-11-12 12:33:34,601 - DEBUG - End of factorial(5)
+2025-11-12 12:33:34,601 - DEBUG - End of program
+2025-11-12 12:33:53,536 - DEBUG - Start of program
+2025-11-12 12:33:53,536 - DEBUG - Start of factorial(5)
+2025-11-12 12:33:53,536 - DEBUG - i is 0, total is 0
+2025-11-12 12:33:53,536 - DEBUG - i is 1, total is 0
+2025-11-12 12:33:53,536 - DEBUG - i is 2, total is 0
+2025-11-12 12:33:53,536 - DEBUG - i is 3, total is 0
+2025-11-12 12:33:53,536 - DEBUG - i is 4, total is 0
+2025-11-12 12:33:53,536 - DEBUG - i is 5, total is 0
+2025-11-12 12:33:53,536 - DEBUG - End of factorial(5)
+2025-11-12 12:33:53,536 - DEBUG - End of program
